@@ -1,0 +1,123 @@
+.custom-input-group-addCar-inline {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	width: 100%;	
+}
+
+.custom-input-group-addCar {
+	width: 100%;
+}
+
+.custom-input-group-addCar2 {
+	width: 30%;
+
+}
+
+.custom-input-group-addCar3 {
+	display: flex;
+	justify-content: center;
+
+}
+
+.custom-addACar {
+	width: 50%;
+}
+
+.custom-carColor {
+	
+}
+
+.custom-addCarLabel {
+	width: 100px;
+}
+
+.custom-input-submit,
+.custom-input-reset {
+	width: 100px;
+	margin: 10px 2px 0 2px;
+}
+
+.carQuantity {
+	width: 50px;
+}
+
+.carQuantity > input {
+	width: 50px;
+	text-indent: 5px;
+}
+
+.carTable-carColor {
+	width: 30px; 
+	height: 20px; 
+	border: 1px solid lightgrey;
+}
+
+.button-holder {
+	width: 164px !important;
+	padding: 1px 0 1px 2px !important;	
+}
+
+.custom-carsTable-button {
+	width: 80px;
+	margin: 0 2px 0 0 !important;
+}
+
+.header-Guest {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;	
+	color: #fff;
+	line-height: 50px;
+
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+	padding: 0 20px;
+	background-color: #3c8dbc;
+}
+
+.footer-Guest {
+	font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	color: #444;
+	line-height: 20px;
+	height: 50px;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;	
+	background-color: #fff;
+}
+
+.siteTitle {
+	font-size: 20px;
+	font-weight: bold;
+	color: #fff;
+}
+
+.custom-login,
+.custom-logo {
+	font-size: 16px;
+	font-weight: normal;
+	color: #fff;
+}
+
+.buyAnotherItem-holder {
+	display: flex;
+	justify-content: flex-end;
+	width: 100%;	
+	margin: 25px 50px 0 0;
+}
+
+.buyAnotherItem {
+	display: flex;	
+}
+
+.buyCarGuestBtn {
+	margin: 0 5px;
+}
+
+.tdCenterText {
+	text-align: center;
+}
